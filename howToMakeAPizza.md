@@ -1,6 +1,13 @@
-# Titulo
 
-## titulo 2
+Pasos para hacer una pizza
+Preparar la masa
+Amasar la masa y agregar queso
+Dar forma
+Esparcir el tomate machacado sobre la masa
+Agregar los ingredientes (nunca piña)
+hornear
+Está lista
+
 PASOS PARA HACER UNA PIZZA
 1 - INGREDIENTES
 -Harina de trigo
@@ -20,3 +27,4 @@ PASOS PARA HACER UNA PIZZA
 -Luego sobre el molde ya listo agregar el el queso y jamón, las verduras y la piña.
 -Llevarla al horno por 30 minutos 
 -Sacar luego de pasado el tiempo y disfrutar.
+
